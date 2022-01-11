@@ -7,6 +7,7 @@ Hooking up a RasPi and Ubuntu 20.04 LTS public server with IPSec.
 - Make sure the firewall accepts connections on UDP 500/4500 at the public side. 
 - Don't forget about any cloud based firewall your public server might be behind. *bonk*
 - You're root on the Ubuntu server (no need to sudo).
+- No routes will be installed. DIY.
 
 # Installation
 ## RasPi
